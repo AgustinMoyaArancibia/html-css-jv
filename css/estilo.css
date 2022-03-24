@@ -1,0 +1,21 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.contac-form
+{
+	font-size: 25px;
+
+}
+
+.contac-form__h2
+{
+	font-size: 20em;
+	font-family: Georgia; 
+	line-height: 1.9;     
+	font-weight: normal;  
+	
+}
+
+

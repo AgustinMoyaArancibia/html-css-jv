@@ -1,0 +1,49 @@
+<link rel="stylesheet" type="text/css" href="estilo.css"> //vincula con archivo css , "estilo.css"
+
+.contac-form
+{
+	font-size: 25px;     caja contenedora , le doy esta medida para que las siguientes cajas dentro 
+						de ella se amolden a su medida
+}
+
+.contac-form__h2
+{
+	font-size:  5em;    em es la medida de la caja madre , sino es 16 por defecto
+}
+
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.contac-form
+{
+	font-size: 25px;
+	background-color: #000;
+	width: 50%;
+
+	width: 50vw;
+	height: 50vh;
+}
+
+.contac-form__h2
+{
+	font-size: 10em;
+	font-family: Georgia; tipo de letra 
+	line-height: 1.9;     tamañp que ocupa la letra, desde la mitad de la letra 
+	font-weight: normal;  cambia el grosor de la letra 
+	font-stretch: normal;
+	font-variant: small-caps;
+}
+
+*{
+  box-sizing: border-box; en el normalize.css , sirve para que la caja no pierda el tamaño dado
+padding: 0;
+  margin: 0;
+}
+
+img {
+  border-style: none;
+  max-width: 100%; en el normalize.css para que los tamaños se acoplen a diferentes dispositivos
+}
