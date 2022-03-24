@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>hola, esa es una página</title>
+		<meta charset="utf-8">  
+		<meta name="keyword" content="harina , leche , huevo ">
+		<meta name="description" content="es una compañia destinada a brindar los mejores alimentos">
+		<meta name="author" content=" lucas dalto" > 
+		<meta name="copyright" content="facebook inc."> 
+
+	</head>
+	<body>
+		<header>
+			<nav> 
+				<ul> 
+					<li> <a href="index.html">inicio</a></li> 
+					<li> <a href="micuenta.html">mi cuenta</a></li>
+					<li> <a href="nosotros.html">sobre nostros</a></li>
+
+				</ul>
+			</nav>
+		</header>  
+	
+		<article> //articulo
+			<section> //los articulos se dividen por secciones
+				 <h1>
+					Todo Tendencias
+				</h1>
+
+				<h2>
+					Canal de educacion
+				</h2>
+
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				</p>
+			</section>
+		</article>
+
+		<aside> //queda al lado del articulo
+			<h2>contenido extra</h2>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</aside>
+		<footer>
+			<h4>copyright - todos los derechos reservados </h4>
+			<p>seguinos en nuestras redes</p>
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<h1>Mi primera imagen en HTML</h1>
+
+		<p>
+			aca va la <b>imagen:</b>
+		</p>
+		<img src="hola.jpg">  //añadir una imagen
+		<br>
+		<img src="https://pbs.twimg.com/profile_images/1312063891069972480/DlNHL3w7_400x400.jpg">  //añadir una imagen
+		<br>
+		<video src="enlace" controls="">
+			
+		</video>  //añadir  video
+		<br>
+		<audio src="enlace" controls="" >
+			
+		</audio> //añadir audio
+	
+	</body>
+</html>

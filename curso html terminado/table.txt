@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>hola, esa es una página</title>
+		<meta charset="utf-8">  
+	</head>
+	<body>
+		<table border="1px"> //tabla , columnas y filas , recopilamos datos 
+			<tr> definir las filas 
+				<td>Nombres</td>
+				<td>apellidos</td>			
+			</tr>
+
+			<tr> definir las filas 
+				<td>agustin</td>
+				<td>moya</td>			
+			</tr>
+		</table>
+	</body>
+</html>

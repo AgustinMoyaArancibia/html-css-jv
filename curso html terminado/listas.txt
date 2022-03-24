@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<h1>Lista para comprar</h1>
+		<ul> //lista desordenada
+			
+			<li>huevos</li>	//elementos de la lista
+			<li>pan</li>
+			<li>fruta</li>
+			<li>auto</li>
+			<li>maiz</li>
+
+		</ul>
+
+		<ol> //lista ordenada
+			<li>pan</li>
+			<li>fruta</li>
+			<li>auto</li>
+			<li>maiz</li>
+		</ol>
+	</body>
+</html>

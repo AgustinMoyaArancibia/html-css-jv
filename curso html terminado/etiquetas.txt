@@ -1,0 +1,84 @@
+
+<br> //etiqueta , no se cierra , espacio en linea
+<h1>
+	titulo
+</h1> //etqueta se abre y se cierra ,, para poner titulo
+
+<!DOCTYPE html>  ///ultima version de html
+<html>   
+<head> ///etiqueta donde se pone todo lo que no podemos ver
+	<title>Primera pagina web</title>
+</head>///etiqueta donde se pone todo lo que no podemos ver
+<body> ///etiqueta donde se pone todo lo que  podemos ver
+		<h1>Hola Mundo</h1>
+</body> ///etiqueta donde se pone todo lo que  podemos ver
+</html>
+
+<!DOCTYPE html> 
+<html>   
+<head> 
+	<title>Primera pagina web</title>
+</head>
+<body> 
+		<h1>Hola Mundo</h1> //titulos del h1 al h6 , el h1 es una vez por pagina
+		<h2>Hola Mundo</h2> //se pueden poner varias veces , pero sin zarparnos
+		<h3>Hola Mundo</h3> //se pueden poner varias veces , pero sin zarparnos
+		<h4>Hola Mundo</h4> //ilimitadas
+		<h5>Hola Mundo</h5> //ilimitadas
+		<h6>Hola Mundo</h6> //ilimitadas
+
+		<p> 
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p> 
+
+				<b>Negrita</b>
+		<i>Italica</i>
+		<strike> Tachada</strike>
+		<small>Chiquita</small>
+</body> 
+</html>
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Primera pagina web</title>
+	</head>
+	<body>
+		<a href="https://facebook.com">click aqui </a> //asi accedo a una pagina web
+		<br>
+		<a href="cosas/pagina2.html">click aqui </a> //asi me muevo a lugares locales de mi maquina
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>pagina 2</title>
+</head>
+<body>
+	<h1>has entrado a la pagina 2</h1>
+	<a href="../index.html">volver</a>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Primera pagina web</title>
+	</head>
+	<body>
+		<h1>mi pagina web</h1>
+		<h2>subtitulo de mi pagina web</h2>
+		<p>
+			todo tendencias. haz <a href="https://youtube.com" 	target="BLANCK">click aqui</a> //BLANK ABRE PESTAÑA NUEVA
+		</p>
+	</body>
+</html>
+

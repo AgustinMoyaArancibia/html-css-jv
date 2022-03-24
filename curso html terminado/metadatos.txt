@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>hola, esa es una página</title>
+		<meta charset="utf-8">  //utf es codificacion universal
+		<meta name="keyword" content="harina , leche , huevo "> //palabras claves
+		<meta name="description" content="es una compañia destinada a brindar los mejores alimentos">
+		<meta name="author" content=" lucas dalto" > //auto de la pagina
+		<meta name="copyright" content="facebook inc."> //dueño de los derechos
+
+	</head>
+	<body>
+		<h1>hola , esta es una página</h1>
+			</form>
+	</body>
+</html>

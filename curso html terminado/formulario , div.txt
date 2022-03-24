@@ -1,0 +1,29 @@
+<div> //separar y agrupar contenidos
+			
+</div>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+			<form> //formulario   //input algo que nos da el usuario
+				<input type="text" required="">  //required obliga a llenar el campo
+				<input type="password" >
+				<input type="number" >
+				<input type="email" > 
+				<input type="color" >
+				<input type="range" min = "10" max="1000">
+				<input type="date" > 
+				<input type="time" >
+				<textarea readonly="">
+					Hola  
+				</textarea>
+				<input type="button" value="Boton" >
+				<input type="submit" > 
+
+
+			</form>
+	</body>
+</html>
